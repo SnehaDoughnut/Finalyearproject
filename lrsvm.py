@@ -67,6 +67,6 @@ df['Volume'].plot()
 df['label'].plot()
 plt.legend(loc=4)
 plt.xlabel('Serial Number')
-plt.ylabel('Volume in MW')
+plt.ylabel('Volume in MegaWatt')
 plt.show()
 
